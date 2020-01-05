@@ -11,4 +11,9 @@ I would be justified to say that this is one of the best ML course for programme
 # Primer to Git Clone
 Have included a document for cloning Fastai through git. <br>
 
-Note: Have used the fastai-cpu version. All the codes are reproduced from the Fastai ML course.
+
+<br><br>
+******************************************************************************************************************************************
+**Note:** <br>
+* Have used the fastai-cpu version. All the codes are reproduced from the Fastai ML course.
+* For better readability, please use the notebooks with "Collapsible Headings" extension from [Jupyter Nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
